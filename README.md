@@ -10,6 +10,13 @@ Tested distribuitions: Debian, Arch Linux
 Updated system (Debian based)
 $ sudo apt-get update && sudo apt-get upgrade
 
+Installing Dig
+$ sudo apt-get install dnsutils
+$ sudo apt-cache search dig
+
+Another command (optional):
+$ apt-file search /usr/bin/dig
+
 Cloning script
 $ git clone https://github.com/lennymouzehine/DNSRecon
 
