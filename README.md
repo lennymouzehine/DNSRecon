@@ -18,7 +18,7 @@ Another command (optional):
 $ apt-file search /usr/bin/dig
 
 Cloning script
-$ git clone https://github.com/lennymouzehine/DNSRecon
+$ git clone https://github.com/cristhyannn41/DNSRecon
 
 Enter script folder
 $ cd DNSRecon
