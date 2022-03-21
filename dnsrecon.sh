@@ -1,5 +1,14 @@
+# # # # # # # # # # # # # # # # # 
+#
+#
 #   !/bin/env bash
-#   dnsrecon - Lenny Mouzehine
+#
+#
+#   DNSRecon with Dig by Lenny Mouzehine
+#
+#
+# # # # # # # # # # # # # # # # # 
+
 
 read -p "Type the domain: " domain
 
