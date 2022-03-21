@@ -4,7 +4,7 @@
 #   !/bin/env bash
 #
 #
-#   DNSRecon with Dig by Lenny Mouzehine
+#   DNSRecon with Dig by Cristhyan Ryan
 #
 #
 # # # # # # # # # # # # # # # # # 
