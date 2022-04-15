@@ -1,13 +1,13 @@
-# # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # #
 #
 #
 #   !/bin/env bash
 #
 #
-#   DNSRecon with Dig by Cristhyan Ryan
+#   DNSRecon with Dig by Lenny Mouzehine
 #
 #
-# # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # #
 
 
 read -p "Type the domain: " domain
